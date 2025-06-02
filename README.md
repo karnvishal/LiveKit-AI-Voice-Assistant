@@ -5,7 +5,7 @@
 AI Voice Assistant is an intelligent customer service solution designed to revolutionize how businesses interact with their customers. This AI-powered voice agent provides instant, accurate support through natural conversation for any domain-specific use case.
 
 ### What It Does
-- **24/7 Customer Support**: Handles customer inquiries about laundry services, pricing, pickup/delivery, and special care instructions
+- **24/7 Customer Support**: Handles customer inquiries about any bussiness realted queries/questions
 - **Human-like Conversations**: Understands natural speech and responds with contextually relevant information
 - **Knowledge-Enhanced Responses**: Accesses a comprehensive database of service information to provide accurate, up-to-date answers
 - **Real-time Interaction**: Maintains conversation flow with ultra-low latency (<500ms response time)
